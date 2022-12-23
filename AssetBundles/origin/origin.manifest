@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 1574091048
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab
+      Dependencies:
+        Dependency_0: mat1
+        Dependency_1: mat2
+        Dependency_2: mat1a
+    Info_1:
+      Name: mat1
+      Dependencies:
+        Dependency_0: tex
+    Info_2:
+      Name: mat2
+      Dependencies:
+        Dependency_0: tex
+    Info_3:
+      Name: mat1a
+      Dependencies:
+        Dependency_0: tex
+    Info_4:
+      Name: tex
+      Dependencies: {}

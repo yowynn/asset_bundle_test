@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2011706008
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene1-rename
+      Dependencies: {}

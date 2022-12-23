@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 308666316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 87bfc1efcf7dc6c06bc89d62508ea46f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/origin/mat1a.mat
+Dependencies:
+- P:/Unity/asset_bundle_test/AssetBundles/origin/tex

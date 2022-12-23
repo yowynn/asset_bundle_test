@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1306053977
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c378df0510eece21727997273e5c2f07
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/origin/mat1a.mat
+Dependencies:
+- P:/Unity/asset_bundle_test/AssetBundles/origin-b/tex-rename

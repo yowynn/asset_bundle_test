@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 27168895
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: mat1a
+      Dependencies:
+        Dependency_0: tex-rename
+    Info_1:
+      Name: tex-rename
+      Dependencies: {}

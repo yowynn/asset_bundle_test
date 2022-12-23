@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2177161959
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a725504ca35234ae96858ba30bc36609
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8527dd64f2556c14280eedd77918de61
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/origin/prefab1.prefab
+Dependencies:
+- P:/Unity/asset_bundle_test/AssetBundles/origin-a/mat1
+- P:/Unity/asset_bundle_test/AssetBundles/origin-a/mat1a
+- P:/Unity/asset_bundle_test/AssetBundles/origin-a/mat2

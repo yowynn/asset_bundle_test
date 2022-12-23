@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: origin-1.2
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 8fdd9bd07e287c04ab5b6635e6fd8568, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: LoadedAssetBundles.Array.size
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: _tag
+    value: origin-1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: preloadAssetBundles.Array.size
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: preloadAssetBundles.Array.data[0]
+    value: origin/prefab
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: preloadAssetBundles.Array.data[1]
+    value: origin/mat1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: preloadAssetBundles.Array.data[2]
+    value: origin/mat1a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: preloadAssetBundles.Array.data[3]
+    value: origin/mat2
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []

@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3578653919
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 264e2efdcbf79df89bb60671527f5ea9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 889bfbf9e882b19d53ce28aba6bb1100
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/origin/scene2.unity
+Dependencies: []

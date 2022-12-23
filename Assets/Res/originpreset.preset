@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: originpreset
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: efe8a5eba1e727c49bd573b7516ed6ce, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: Outpath
+    value: AssetBundles/origin
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: BuildTarget
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[0].assetBundleName
+    value: prefab
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[0].assetBundleVariant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[0].assetObjects.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[0].assetObjects.Array.data[0]
+    value: 
+    objectReference: {fileID: 4318469132029410250, guid: 9f2894a45506a584b8068491b8009fe0, type: 3}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[1].assetBundleName
+    value: mat1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[1].assetBundleVariant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[1].assetObjects.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[1].assetObjects.Array.data[0]
+    value: 
+    objectReference: {fileID: 2100000, guid: 1d41863ceb440c041b844246d39d33fa, type: 2}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[2].assetBundleName
+    value: mat2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[2].assetBundleVariant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[2].assetObjects.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[2].assetObjects.Array.data[0]
+    value: 
+    objectReference: {fileID: 2100000, guid: 5908a50c20e76bd45a807f30b376150d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[3].assetBundleName
+    value: mat1a
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[3].assetBundleVariant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[3].assetObjects.Array.size
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[3].assetObjects.Array.data[0]
+    value: 
+    objectReference: {fileID: 2100000, guid: 320393b648cb1104a84ccafbd3f49be2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[4].assetBundleName
+    value: tex
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[4].assetBundleVariant
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[4].assetObjects.Array.size
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[4].assetObjects.Array.data[0]
+    value: 
+    objectReference: {fileID: 2800000, guid: 75f1192c627cab74cbdce3f3d6cae05a, type: 3}
+  - target: {fileID: 0}
+    propertyPath: MapList.Array.data[4].assetObjects.Array.data[1]
+    value: 
+    objectReference: {fileID: 2800000, guid: 1b9e5025110d28c41a25e98708ecf238, type: 3}
+  m_ExcludedProperties: []
